@@ -1,5 +1,5 @@
 <h1 align="center">
-  [<img alt="Agência Cronos" title="#Agência Cronos" src="./imagens/banner-marketing.png" />]
+  <img src="./imagens/banner-marketing.png"/>
 </h1>
 
 # Agência CRONOS
@@ -10,11 +10,10 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
 </h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<p align="center"> lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
 
-<img src='https://img.shields.io/badge/npm-8.1.2-blue'/>
-<img src='https://img.shields.io/badge/license-MIT-green'/>
+<img src='https://img.shields.io/badge/npm-8.1.2-blue'/> <img src='https://img.shields.io/badge/license-MIT-green'/>
 
 ### Tabela de conteúdos
 
@@ -27,7 +26,7 @@
  <a href="#autor">Autor</a>
 </p>
 
-### 	🚧  React Select 🚀 Em construção...  🚧
+### 	🚧  React Select Em construção...  🚧
 
 ### Features
 
@@ -42,7 +41,7 @@
 ### Demonstração da aplicação
 
 <h1 align="center">
-  [<img src="./imagens/ilustra-banner.png"/>]
+  <img src="./imagens/ilustra-banner.png"/>
 </h1>
 
 ### Pré-requisitos
@@ -97,6 +96,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 | :---: |  
 
 Feito por Gisele Correia 👋🏽 Entre em contato!
+<img src='https://img.shields.io/badge/-Gisele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-gisele-correia-53180483/'/> <img src='https://img.shields.io/badge/-mariagisele12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariagisele12@gmail.com)](mailto:mariagisele12@gmail.com>'/>
 
 ### License
 
