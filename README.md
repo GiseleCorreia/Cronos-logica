@@ -1,4 +1,5 @@
-'[C:\Users\maria\OneDrive\Área de Trabalho\Cronos - logica\So_h\imagens\CRONOS-logo.png]
+
+<img src='./imagens/banner-marketing.png'
 
 # Agência CRONOS
 
@@ -40,7 +41,7 @@
 ### Demonstração da aplicação
 
 <h1 align="center">
-  <img alt="Agencia CRONOS" title="#Agencia CRONOS" src="C:\Users\maria\OneDrive\Área de Trabalho\Cronos - logica\So_h\imagens\ilustra-banner.png" />
+  <img alt="Agencia CRONOS" title="#Agencia CRONOS" src="./imagens/ilustra-banner.png" />
 </h1>
 
 ### Pré-requisitos
@@ -84,22 +85,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [<img src="https://avatars.githubusercontent.com/u/60934938?v=4=" width=115 > <br> <sub> Jeovane dos Santos </sub>](https://github.com/jeovanedossantossantos) |
 | :---: | 
 
-[<img src="hhttps://avatars.githubusercontent.com/u/66260886?v=4=" width=115 > <br> <sub> Gisele Correia </sub>](https://github.com/GiseleCorreia) |
+[<img src="https://avatars.githubusercontent.com/u/66260886?v=4" width=115 > <br> <sub> Gisele Correia </sub>](https://github.com/GiseleCorreia) |
 | :---: | 
 
 [<img src="https://avatars.githubusercontent.com/u/73408388?v=4=" width=115 > <br> <sub> Bruno P. Brito </sub>](https://github.com/brunopbrito31) |
 | :---: | 
 
 ### Autor
-[<img src="hhttps://avatars.githubusercontent.com/u/66260886?v=4=" width=115 > <br> <sub> Gisele Correia </sub>](https://github.com/GiseleCorreia) |
-| :---: | 
+[<img src="https://avatars.githubusercontent.com/u/66260886?v=4" width=115 > <br> <sub> Gisele Correia </sub>](https://github.com/GiseleCorreia) |
+| :---: |  
 
-Feito com ❤️ por Gisele Correia 👋🏽 Entre em contato!
+Feito por Gisele Correia 👋🏽 Entre em contato!
 
 ### License
 
 MIT License
-Copyright (c) <2021> <Gisele Correia, Jeovane Santos, Bruno Brito>
+Copyright (c) 2021 Gisele Correia, Jeovane Santos, Bruno Brito
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
