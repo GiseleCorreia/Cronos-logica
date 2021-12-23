@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./imagens/banner-marketing.png"/>
+  <img src="https://github.com/GiseleCorreia/Cronos-logica/blob/main/So_h/imagens/banner-marketing.png"/>
 </h1>
 
 # Agência CRONOS
@@ -13,7 +13,7 @@
 <p align="center"> lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
 
-<img src='https://img.shields.io/badge/npm-8.1.2-blue'/> <img src='https://img.shields.io/badge/license-MIT-green'/>
+<img src="https://img.shields.io/badge/npm-8.1.2-blue"/> <img src="https://img.shields.io/badge/license-MIT-green"/>
 
 ### Tabela de conteúdos
 
@@ -41,7 +41,7 @@
 ### Demonstração da aplicação
 
 <h1 align="center">
-  <img src="./imagens/ilustra-banner.png"/>
+  <img src="https://github.com/GiseleCorreia/Cronos-logica/blob/main/So_h/imagens/ilustra-banner.png"/>
 </h1>
 
 ### Pré-requisitos
@@ -96,7 +96,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 | :---: |  
 
 Feito por Gisele Correia 👋🏽 Entre em contato!
-<img src='https://img.shields.io/badge/-Gisele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-gisele-correia-53180483/'/> <img src='https://img.shields.io/badge/-mariagisele12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariagisele12@gmail.com)](mailto:mariagisele12@gmail.com>'/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gisele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-gisele-correia-53180483/)](https://www.linkedin.com/in/maria-gisele-correia-53180483/) [![Gmail Badge](https://img.shields.io/badge/-mariagisele12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariagisele12@gmail.com)](mailto:mariagisele12@gmail.com)
 
 ### License
 
