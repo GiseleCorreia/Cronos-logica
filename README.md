@@ -5,8 +5,9 @@
 # Agência CRONOS
 
 ## Descrição do Projeto
-<p align="center">Projeto desenvolvido para o desafio da Gama Academy onde a proposta foi utilizar HTML, CSS, Lógica de programação, Javascript e React. Pois precisa-se funcionalidades para criar, editar e deletar serviços da lista (o famoso CRUD)</p>
-<p>CHECKLIST DE REQUISITOS MÍNIMOS PARA ENTREGA:
+<p>Projeto desenvolvido para o desafio da Gama Academy onde a proposta foi utilizar HTML, CSS, Lógica de programação, Javascript e React. Pois precisa-se funcionalidades para criar, editar e deletar serviços da lista (o famoso CRUD).
+
+CHECKLIST DE REQUISITOS MÍNIMOS PARA ENTREGA:
 
 - Todos os códigos deverão estar em um repositório no Github de acesso público com todos os integrantes incluídos como colaboradores..
 
